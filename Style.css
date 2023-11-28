@@ -167,7 +167,7 @@ span {
     .hero-section {
         position: relative;
         display: flex;
-        background-image: url(/icons/pj16.jpg);
+        background-image: url(./icons/pj16.jpg);
         background-size: cover;
         border-bottom:3px solid rgb(183, 180, 180);  
         
